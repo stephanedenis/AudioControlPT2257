@@ -1,2 +1,2 @@
-# AudioVolumeControlPT2257
+# AudioControlPT2257
 Arduino library for the PT2257 chip
